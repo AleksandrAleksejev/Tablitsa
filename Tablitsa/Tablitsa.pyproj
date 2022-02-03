@@ -23,6 +23,16 @@
   <ItemGroup>
     <Compile Include="Tablitsa.py" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="es.png" />
+    <Content Include="hs.png" />
+    <Content Include="pr.png" />
+    <Content Include="ps.png" />
+    <Content Include="TextFile2.txt" />
+    <Content Include="матем.jfif" />
+    <Content Include="рисов.jpg" />
+    <Content Include="щз.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
        Visual Studio and specify your pre- and post-build commands in
