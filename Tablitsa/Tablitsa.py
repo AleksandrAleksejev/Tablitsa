@@ -108,8 +108,8 @@ tund_kirjeldus=failist_sonastikule()
 
 def kirjeldus_Aknasse(t):
     print(tund_kirjeldus[t])
+    nfe
 
 
 
 aken.mainloop()
-ав
